@@ -79,6 +79,10 @@ npm install
 ```bash
 npm run dev
 ```
+4. **Download Expo Go from - App Store / Google Play **
+```bash
+Scan the QR code that is generated
+```
 
 ### **Available Scripts**
 
@@ -107,10 +111,6 @@ npm run dev
 - Tron (TRX)
 - Litecoin (LTC)
 - Chainlink (LINK)
-
-## 📱 **Screenshots**
-
-*Add your app screenshots here*
 
 ## 🤝 **Contributing**
 
