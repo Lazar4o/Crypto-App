@@ -79,7 +79,7 @@ npm install
 ```bash
 npm run dev
 ```
-4. **Download Expo Go from - App Store / Google Play **
+4. **Download Expo Go from - App Store / Google Play**
 ```bash
 Scan the QR code that is generated
 ```
